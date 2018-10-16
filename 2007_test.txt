@@ -1,0 +1,13 @@
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0001.jpg 215,469,1348,2320,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0008.jpg 6,208,1370,2363,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0011.jpg 39,233,1491,2345,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0020.jpg 112,269,1592,2364,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0024.jpg 55,260,1555,2354,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0026.jpg 15,130,1418,2342,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0027.jpg 33,484,1451,2364,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0029.jpg 224,139,1576,2363,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0030.jpg 188,254,1670,2363,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0031.jpg 361,481,1670,2363,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0034.jpg 70,257,1432,2364,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0035.jpg 179,99,1397,2351,0
+C:\pythonwork\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Yu_Xiang1_181014_0038.jpg 115,214,1485,2326,0
